@@ -1,5 +1,7 @@
 # profile
 
+[course](https://github.com/szabgab/wis-python-course-2024-11)
+
 ## GOODS
 
 * apple
