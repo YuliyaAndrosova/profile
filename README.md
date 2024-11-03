@@ -6,6 +6,7 @@
 * banana
 
 1 cat
+![my ant](DSC07276.jpg)
 
 2 panda
 
